@@ -1,7 +1,13 @@
-body {background-color:black;}
+
+body {
+    background-color:black;
+    font-family:arial;color:white;    
+}
+/* body design is set  */
 h1{color:grey;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* heading design is set now */
  
 .maindiv{
     background-color: white;
@@ -11,5 +17,8 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 25px;
     margin: auto;
 }
+/* this is settings for main division in Interest Calculator */
+
+
 
 
